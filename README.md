@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xxxxammaxxxx
+- 👀 I’m interested in back-end 
+- 🌱 I’m currently learning Python
+- 🐱‍🐉 I'm new to the programming scene
